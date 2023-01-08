@@ -1,5 +1,7 @@
 # Pacman knock off
 
+Kopie hry Pacman využívající jazyk C s knihovnou SDL2
+
 ## Ovládání
 
 * W/šipka nahoru = nahoru
