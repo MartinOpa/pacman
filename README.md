@@ -20,3 +20,8 @@ Kopie hry Pacman využívající jazyk C s knihovnou SDL2
 
 * skóre je promítáno vpravo nahoře, 1 sebraný point = 50 bodů ke skóre
 * konec hry, ať už posbíráním všech bodů nebo ztrátou všech životů, je následován zvukovým efektem a hráč je přesunut doprostřed mapy, odkud se do ukončení programu nedostane
+
+## Herní screenshoty
+![alt text](https://github.com/MartinOpa/pacman/blob/master/ukazka1.png?raw=true)
+![alt text](https://github.com/MartinOpa/pacman/blob/master/ukazka2.png?raw=true)
+![alt text](https://github.com/MartinOpa/pacman/blob/master/ukazka3.png?raw=true)
